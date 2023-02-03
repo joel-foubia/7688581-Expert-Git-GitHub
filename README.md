@@ -60,6 +60,10 @@ Merci de lire les fichiers :
 
 Ce projet est sous la licence GNU GPL V3 - voir le fichier [LICENSE](LICENSE) pour plus de détails
 
-## Modification
+## Modification 1
 
 Une modification apporté par Joel Foubia
+
+## Modification 2
+
+Deuxième modification vennant de monsieur Foubia
